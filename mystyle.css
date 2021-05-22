@@ -1,0 +1,70 @@
+
+body {background-color: beige;}
+h1   {color: red; text-align: center; font-family: Verdana, font-size: 70px; font--style: bold; font-weight: 900;}
+h2   {color: darkred;}
+h3   {color: blue;}
+h4   {color: blue;}
+}
+
+h1 {
+   font-family: Verdana; 
+   font-size:60px;
+   font-style: bold;
+   font-weight: 900;
+   text-align: center;
+}
+
+h2 {
+   font-family: Verdana; 
+   font-size:40px;
+   font-style: bold;
+   font-weight: 900;
+   text-align: center;
+}
+
+h3 {
+   font-family: Verdana; 
+   font-size:30px;
+   font-style: bold;
+   font-weight: 900;
+   text-align: center;
+}
+
+h4 {
+   font-family: Verdana; 
+   font-size:30px;
+   font-style: bold;
+   font-weight: 900;
+   text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+     	   font-size:22px;
+	   font-color:blue;
+	   font-family: Georgia;
+    	   text-align: center
+}
+
+p {
+   font-size: 22px;
+   line-height:30px;
+   font-family: Georgia;
+}
+
+a {
+   font-size: 22px;
+   line-height: 30px;
+   font-family: Georgia;
+   text-align: center;
+}
+
+div {
+    font-size: 22px;
+    line-height: 30px;
+    font-family: Georgia;
+    text-align: center;
+}
