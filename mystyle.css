@@ -6,6 +6,13 @@ h3   {color: purple;}
 h4   {color: purple;}
 }
 
+h1 {
+   font-family: Verdana; 
+   font-size:70px;
+   font-style: bold;
+   font-weight: 900;
+   text-align: center;
+
 h2 {
    font-family: Verdana; 
    font-size:40px;
